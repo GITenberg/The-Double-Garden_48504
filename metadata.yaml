@@ -1,4 +1,5 @@
 _repo: The-Double-Garden_48504
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Mattos, Alexander Teixera de
@@ -11,6 +12,9 @@ contributor:
     gutenberg_agent_id: '1460'
     url: http://www.gutenberg.org/2009/agents/1460
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+covers:
+- cover_type: archival
+  image_path: 48504-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48504#The-Double-Garden
 gutenberg_issued: '2015-03-16'
 gutenberg_type: Text
 identifiers:
